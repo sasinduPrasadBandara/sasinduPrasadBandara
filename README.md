@@ -21,10 +21,8 @@
 </div>
 
   </div>
-....
-  <div style="margin:50px">
-    ### :fire: My Stats :
-  </div>
-  https://github-readme-streak-stats.herokuapp.com/?user=your-github-sasinduPrasadBandara
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sasinduPrasad&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+  ### :fire: My Stats :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sasinduPrasadBandara&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
