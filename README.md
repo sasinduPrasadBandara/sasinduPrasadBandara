@@ -12,6 +12,3 @@ Welcome to my GitHub! 🚀 I'm a android developer with a focus on creating **us
 - Android (Kotlin, Jetpack Compose)
 - React Native
 
-📫 **Let's connect!**
-- [LinkedIn](www.linkedin.com/in/sasindu-prasad-448bb8258/)
-
