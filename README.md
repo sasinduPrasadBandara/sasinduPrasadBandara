@@ -1,25 +1,17 @@
-<div align="center">
-  <h5>Hello There 👋</h5>
-  
-  <h3>Mobile Application Developer</h3>
-  
-  <p>Welcome to my GitHub! I'm a passionate mobile app developer with a focus on creating beautiful, user-centric applications. Let's build something amazing together!</p>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hello%20There-%F0%9F%91%8B-brightgreen" alt="Hello There">
+</p>
+
+# 👨‍💻 Android Developer
+
+Welcome to my GitHub! 🚀 I'm a android developer with a focus on creating **user-friendly** and **innovative** applications. 💡
 
 ---
 
-### 🌟 About Me
-- 📱 **Mobile Development Enthusiast** with expertise in **React Native** development.
-- 💼 Currently working on **mobile app UI templates** and aiming to bring the best designs to life.
+🔧 **Technologies I work with:**
+- Android (Kotlin, Jetpack Compose)
+- React Native
 
----
+📫 **Let's connect!**
+- [LinkedIn](www.linkedin.com/in/sasindu-prasad-448bb8258/)
 
-
-### 🚀 Projects
-- [📲 Chat app Ui Kit](https://sasinduprasad.gumroad.com/l/chatmate) - Bringing beautiful mobile designs to developers.
-- [📚 Book Library App](https://play.google.com/store/apps/details?id=com.sasinduprasad.WiseShelf) - A feature-rich app for organizing your personal library.
-
----
-
-### 📫 Contact Me
-- 📧 Email: [sasinduprasad2002@gmail.com](mailto:sasinduprasad2002@gmail.com)
